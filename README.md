@@ -9,7 +9,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" src="https://user-images.githubusercontent.com/69945382/163913345-6530a9e4-39da-45bb-b9d6-0a39c05d5ac0.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/69945382/163917331-0ca18395-b741-437e-84ff-175688dd2816.gif" width = 200px/>
 
 <br><br>
 Hello Everyone 👋, My name is Ichal and my nickname is Alwi. I'm SoftWare Engineering Student👨‍💻
