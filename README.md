@@ -9,7 +9,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" src="https://assets6.lottiefiles.com/packages/lf20_gljfnvqz.json" width = 200px/>
+<img align="right" src="https://lottiefiles.com/99016-happy-developer-white" width = 200px/>
 
 <br><br>
 Hello Everyone 👋, My name is Ichal and my nickname is Alwi. I'm SoftWare Engineering Student👨‍💻
