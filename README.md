@@ -21,7 +21,7 @@ You can follow me on the socials, below 👇.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:amirbayat.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:ichalwiradev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/IchalAlwiros/"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/alwiros.id/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<!-- <a href="https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg"><img src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a> -->
