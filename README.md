@@ -25,5 +25,5 @@ You can follow me on the socials, below 👇.
 	<a href="https://github.com/IchalAlwiros/"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/alwiros.id/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<!-- <a href="https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg"><img src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a> -->
-  <a href="https://znap.link/CodeWithFlexz"><img src="https://img.shields.io/badge/other-%23181717.svg?style=plastic&logo=other&logoColor=red" alt="YouTube"/></a>
+  <a href="https://znap.link/IchAlwiros"><img src="https://img.shields.io/badge/other-%23181717.svg?style=plastic&logo=other&logoColor=red" alt="YouTube"/></a>
 </p>
