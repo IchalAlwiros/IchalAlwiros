@@ -13,7 +13,8 @@
 
 <br><br>
 Hello Everyone 👋, My name is Ichal and my nickname is Alwi. I'm SoftWare Engineering Student👨‍💻
-I’m interested in Dart/Flutter. Presently, I'm developing Softwares & apps with Flutter.
+I’m interested in Dart/Flutter. Currently, I'm learning Software & apps with Flutter.
+My hobby is graphic design and learning new things about technology and
 You can follow me on the socials, below 👇.
 
 <br><br>
