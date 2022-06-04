@@ -7,7 +7,7 @@
 	<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=0e75b6&style=plastic" alt="amirbayat0" /> 
 </p>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 20px>  About me
 
 <img align="right" src="https://user-images.githubusercontent.com/69945382/163917331-0ca18395-b741-437e-84ff-175688dd2816.gif" width = 200px/>
 
