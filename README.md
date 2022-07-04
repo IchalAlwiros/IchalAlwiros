@@ -26,15 +26,3 @@
 <a href="https://www.github.com/amirbayat0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /></a>
 </p>
 
-
-
-
-
-
- 
-
-
-
-
-
-
