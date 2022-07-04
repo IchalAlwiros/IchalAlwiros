@@ -4,7 +4,7 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
 - Hello Everyone 👋, My name is Ichal Wira and my nickname is Alwi.<br>
-- I'm SoftWare Enthusiast👨‍💻.<br>
+- I'm SoftWare Development Enthusiast👨‍💻.<br>
 - I’m interested in Dart/Flutter.<br>
 - Currently, I'm developing Softwares & apps with Flutter.<br>
 
