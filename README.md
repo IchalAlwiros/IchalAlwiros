@@ -5,8 +5,8 @@
 
 - Hello Everyone 👋, My name is Ichal Wira and my nickname is Alwi.<br>
 - I'm SoftWare Development Enthusiast👨‍💻.<br>
-- I’m interested in Dart/Flutter.<br>
-- Currently, I'm developing Softwares & apps with Flutter.<br>
+- I’m interested in Web Development.<br>
+- Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Flutter.<br>
 
 <img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="amirbayat0" /> 
 
