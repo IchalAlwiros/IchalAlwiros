@@ -18,6 +18,7 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526715-280a2593-d4d7-498d-b6ce-594572de39ff.png" width="40" height="40" alt="Flutter" /></a>
 <a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205528035-22eb4418-1fca-495a-9ae6-9ba5e8c7ba66.png" width="40" height="40" alt="Javascript" /></a>
 </p>
+
 ### Socials
 
 <p align="left"> 
