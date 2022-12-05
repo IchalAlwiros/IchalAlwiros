@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526153-cf5986fc-7b78-4993-94b9-46bde9e95071.png" width="36" height="36" alt="Dart" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526153-cf5986fc-7b78-4993-94b9-46bde9e95071.png" width=40" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
