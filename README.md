@@ -14,10 +14,10 @@
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526153-cf5986fc-7b78-4993-94b9-46bde9e95071.png" width="40" height="40" alt="NodeJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526560-faa138b6-fe90-4543-8520-a06afc752e70.png" width="40" height="40" alt="Flutter" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526560-faa138b6-fe90-4543-8520-a06afc752e70.png" width="40" height="40" alt="ReactJs" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205526715-280a2593-d4d7-498d-b6ce-594572de39ff.png" width="40" height="40" alt="Flutter" /></a>
+<a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/205528035-22eb4418-1fca-495a-9ae6-9ba5e8c7ba66.png" width="40" height="40" alt="Javascript" /></a>
 </p>
-
 ### Socials
 
 <p align="left"> 
