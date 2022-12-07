@@ -8,7 +8,7 @@
 - I’m interested in Software Development.<br>
 - Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Flutter.<br>
 
-<img src="https://komarev.com/ghpvc/?username=amirbayat0&label=Profile%20views&color=8042fc&style=plastic" alt="amirbayat0" /> 
+<img src="https://komarev.com/ghpvc/?username=ichal&label=Profile%20views&color=F7B267&style=plastic" alt="ichal" /> 
 
 ### Skills
 
