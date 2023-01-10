@@ -9,7 +9,7 @@
 - Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Flutter.<br>
 
 <img src="https://komarev.com/ghpvc/?username=IchAlwiros&label=Profile%20views&color=ffee32&style=plastic" alt="ichal" /> 
-
+---
 ### Skills
 
 <p align="left">
