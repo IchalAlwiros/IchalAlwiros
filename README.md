@@ -2,14 +2,14 @@
 
 **`Digital Enthusiast (Developer/Editing/Design)`**
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me <img src="https://komarev.com/ghpvc/?username=IchAlwiros&label=Profile%20views&color=ffee32&style=plastic" alt="ichal" /> 
+
 
 - Hello Everyone 👋, My name is Ichal Wira and my nickname is Alwi.<br>
 - I'm SoftWare Development Enthusiast👨‍💻.<br>
 - I’m interested in Software Development.<br>
 - Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Flutter.<br>
 
-<img src="https://komarev.com/ghpvc/?username=IchAlwiros&label=Profile%20views&color=ffee32&style=plastic" alt="ichal" /> 
 ---
 ### Skills
 
