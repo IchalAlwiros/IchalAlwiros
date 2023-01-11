@@ -1,15 +1,16 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Ichal Wira
 
-**`Digital Enthusiast (Developer/Editing/Design)`**
+**`Technology Enthusiastt (Developer/Editing/Design)`**
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me <img src="https://komarev.com/ghpvc/?username=IchAlwiros&label=Profile%20views&color=ffee32&style=plastic" alt="ichal" /> 
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me 
 
 
 - Hello Everyone 👋, My name is Ichal Wira and my nickname is Alwi.<br>
 - I'm SoftWare Development Enthusiast👨‍💻.<br>
 - I’m interested in Software Development.<br>
-- Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Flutter.<br>
-
+- Currently, I'm developing Softwares & apps with ReactJs, ExpresJs, Arduino, Flutter.<br>
+- 
+<img src="https://komarev.com/ghpvc/?username=IchAlwiros&label=Profile%20views&color=ffee32&style=plastic" alt="ichal" /> 
 ---
 ### 🧰 Languages and Tools
 
@@ -23,7 +24,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69945382/211692165-5fc256e0-3595-471a-a46a-fdf7ab0df6eb.png" width="40" height="40" alt="Gitlab" /></a>
 </p>
 
-### Socials
+### 👋 Socials
 
 <p align="left"> 
 <a href="https://www.instagram.com/ichalwira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a>
@@ -36,15 +37,16 @@
   <a href="https://www.instagram.com/alwiros.id/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ichalwiradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ichal-wira-sukmana-27a3381b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+  <p align="left">
+      <a href="https://www.youtube.com/@ichalwiros?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3U11IlT0uU7lWEr33m_2Ng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@ichalwiros">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC3U11IlT0uU7lWEr33m_2Ng?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/IchalAlwiros?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IchalAlwiros?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/IchalAlwiros?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IchalAlwiros?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
 #
