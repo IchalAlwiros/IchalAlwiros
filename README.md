@@ -44,7 +44,12 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
+#
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=The+Right+Way+to+Build+an+MVP&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://www.youtube.com/watch?v=jpQJ8aOThNY)
 
 <details>
  <summary><h3>👨‍💻 IchAlwiros Coding Journey</h3></summary>
