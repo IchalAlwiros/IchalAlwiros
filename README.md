@@ -52,8 +52,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=dKf9TwhNPpQ&title=Membuat+REST+API+dengan+Node+JS&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=800 "Intro | Membuat REST API dengan Node JS")](https://www.youtube.com/watch?v=dKf9TwhNPpQ&list=PLotgmQFb4qNstBh6TXfVnnruI7c-Ds67d&ab_channel=IchAlwiros)
-[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=4e8pZiYsVbo&title=BASIC+CRUD+|+Membuat+REST+API+dengan+Node+JS+&Mysql&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://www.youtube.com/watch?v=4e8pZiYsVbo&list=PLotgmQFb4qNstBh6TXfVnnruI7c-Ds67d&index=2&ab_channel=IchAlwiros)
+[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=dKf9TwhNPpQ&title=Membuat+REST+API+dengan+Node+JS&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1980 "Intro | Membuat REST API dengan Node JS")](https://www.youtube.com/watch?v=dKf9TwhNPpQ&list=PLotgmQFb4qNstBh6TXfVnnruI7c-Ds67d&ab_channel=IchAlwiros)
+[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=4e8pZiYsVbo&title=BASIC+CRUD+|+Membuat+REST+API+dengan+Node+JS+&Mysql&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2220 "Basic CRUD | Membuat REST API dengan Node Js + Mysql")](https://www.youtube.com/watch?v=4e8pZiYsVbo&list=PLotgmQFb4qNstBh6TXfVnnruI7c-Ds67d&index=2&ab_channel=IchAlwiros)
 
 <details>
  <summary><h3>👨‍💻 IchAlwiros Coding Journey</h3></summary>
